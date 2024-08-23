@@ -21,13 +21,13 @@ h2 {
 */
 
 .stripe {
-	background: white;
+	background: rgb(162,235,182);
 	height: 5%;
 	text-align: center;
 }
 
 .stripe2 {
-	background: rgb(15,148,168);
+	background: rgb(230,237,232);
 	height: 10%;
 	text-align: center;
 }
@@ -35,8 +35,8 @@ h2 {
 
 
 .selected {
-	color: white;
-	background: rgb(15,148,168);
+	color: rgb(116,120,117);
+	background: rgb(230,237,232);
 }
 
 .hidden{
@@ -48,7 +48,7 @@ button {
 	background: none;
 	height: 100%;
 	font-weight: 700;
-	color: rgb(15,148,168);
+	color: rgb(255,255,255);
 	letter-spacing: 1px;
 	font-size: inherit;
 	transition: all 0.3s;
@@ -58,9 +58,9 @@ button {
 }
 
 button:hover {
-	color: white;
-	background: rgb(15,148,168);
-	cursor: pointer;
+	color: rgb(116,120,117);
+	background: rgb(230,237,232);
+	cursor:pointer;
 }
 
 #container {
@@ -73,7 +73,7 @@ button:hover {
 }
 
 body {
-	background-color: rgb(15,148,168);
+	background-color: rgb(230,237,232);
 	margin: 0;
 	font-family: "Montserrat", "Avenir";
 }
@@ -91,7 +91,7 @@ a {
 p {
 	border-style: 4px solid white;
 	margin:5px;
-	color: rgb(255,204,207);
+	color: rgb(116,120,117);
 	font-weight: 150;
 	font-size: 1.5em;
 
